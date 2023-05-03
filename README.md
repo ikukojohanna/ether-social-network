@@ -11,7 +11,6 @@ user interaction.
 ![ScreenShot](public/screenshots/1.png)
 ![ScreenShot](public/screenshots/2.png)
 ![ScreenShot](public/screenshots/4.png)
-
 ![ScreenShot](public/screenshots/5.png)
 ![ScreenShot](public/screenshots/6.png)
 ![ScreenShot](public/screenshots/7.png)
