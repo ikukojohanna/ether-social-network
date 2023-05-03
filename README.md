@@ -22,21 +22,21 @@ If close enough to another planet, you will hear it's music in the background. E
 
 Other features include..
 
-..Changing your profile picture:
+..changing your profile picture:
 
 ![ScreenShot](client/public/screenshots/8.png)
 
-..Writing a short bio:
+..writing a short bio:
 
 ![ScreenShot](client/public/screenshots/9.png)
 
-..Searching for friends, sending friend requests, accepting or rejecting those friend requests as well as deleting friends.
+..searching for friends, sending friend requests, accepting or rejecting those friend requests as well as deleting friends.
 Between friends one can open a private chat component.
 
 ![ScreenShot](client/public/screenshots/10.png)
 
 
-..log out. 
+..logging out. 
 
 
 
