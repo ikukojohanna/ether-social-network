@@ -8,15 +8,15 @@ features custom made music that is activated through
 user interaction.
 
 
-![ScreenShot](public/screenshots/1.png)
-![ScreenShot](public/screenshots/2.png)
-![ScreenShot](public/screenshots/4.png)
-![ScreenShot](public/screenshots/5.png)
-![ScreenShot](public/screenshots/6.png)
-![ScreenShot](public/screenshots/7.png)
-![ScreenShot](public/screenshots/8.png)
-![ScreenShot](public/screenshots/9.png)
-![ScreenShot](public/screenshots/10.png)
+![ScreenShot](client/public/screenshots/1.png)
+![ScreenShot](client/public/screenshots/2.png)
+![ScreenShot](client/public/screenshots/4.png)
+![ScreenShot](client/public/screenshots/5.png)
+![ScreenShot](client/public/screenshots/6.png)
+![ScreenShot](client/public/screenshots/7.png)
+![ScreenShot](client/public/screenshots/8.png)
+![ScreenShot](client/public/screenshots/9.png)
+![ScreenShot](client/public/screenshots/10.png)
 
 
 
